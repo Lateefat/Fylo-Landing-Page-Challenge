@@ -50,6 +50,7 @@ Users should be able to:
 
 ### What I learned
 
+- After abandoning my first attemt at Git and Github in 2015, I get to learn how to really use them.
 - I learnt how to use Flexbox to style a responsive page.
 
 ### Continued development
